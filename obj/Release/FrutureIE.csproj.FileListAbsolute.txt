@@ -1,0 +1,10 @@
+F:\StarJian\Dev\FrutureIE\bin\Release\FrutureIE.exe.config
+F:\StarJian\Dev\FrutureIE\bin\Release\FrutureIE.exe
+F:\StarJian\Dev\FrutureIE\bin\Release\FrutureIE.pdb
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.csproj.AssemblyReference.cache
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.FrutureIE.resources
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.Properties.Resources.resources
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.csproj.GenerateResource.cache
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.csproj.CoreCompileInputs.cache
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.exe
+F:\StarJian\Dev\FrutureIE\obj\Release\FrutureIE.pdb
